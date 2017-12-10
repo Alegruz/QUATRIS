@@ -28,53 +28,37 @@ X to end the game
 The resources are mostly from YouTube.
 
 Sound FX
-http://themushroomkingdom.net/media/smb/wav
-
+http://themushroomkingdom.net/media/smb/wav<br>
 Angry Birds 8 bit
-https://youtu.be/CYc01JrGb1E
-
+https://youtu.be/CYc01JrGb1E<br>
 Chrono Trigger Main Theme
-https://youtu.be/g-s-VQBoUdc
-
+https://youtu.be/g-s-VQBoUdc<br>
 Fallout 3 8 bit
-https://youtu.be/DXcineEWmHA
-
+https://youtu.be/DXcineEWmHA<br>
 Final Fantasy Main Theme
-https://youtu.be/0GexOi5179o
-
+https://youtu.be/0GexOi5179o<br>
 GTA 4 Soviet Connection 8 bit
-https://youtu.be/z5o8T6v_P_s
-
+https://youtu.be/z5o8T6v_P_s<br>
 Halo One Final Effort 8 bit
-https://youtu.be/ea-XjlC6YKA
-
+https://youtu.be/ea-XjlC6YKA<br>
 Halo 3 Never Forget 8 bit
-https://youtu.be/X3b3cII53wI
-
+https://youtu.be/X3b3cII53wI<br>
 Minecraft Sweden 8 bit
-https://youtu.be/b4R6lHvcw68
-
+https://youtu.be/b4R6lHvcw68<br>
 Portal Still Alive 8 bit
-https://youtu.be/fMJTinMvB24
-
+https://youtu.be/fMJTinMvB24<br>
 Portal 2 Cara Mia Addio 8 bit
-https://youtu.be/EuAN7KBcjcQ
-
+https://youtu.be/EuAN7KBcjcQ<br>
 The Elder Scrolls IV Oblivion 8 bit
-https://youtu.be/0ety8MzJiPM
-
+https://youtu.be/0ety8MzJiPM<br>
 The Elder Scrolls V Skyrim Dragonborn 8 bit
-https://youtu.be/fcFl6BgK_vw
-
+https://youtu.be/fcFl6BgK_vw<br>
 The Elder Scrolls V Far Horizons 8 bit
-https://youtu.be/L5H2zxZ6WJA
-
+https://youtu.be/L5H2zxZ6WJA<br>
 Tetris Main Theme
-https://youtu.be/NmCCQxVBfyM
-
+https://youtu.be/NmCCQxVBfyM<br>
 The Legend of Zelda Intro Theme
-https://youtu.be/uyMKWJ5e1kg
-
+https://youtu.be/uyMKWJ5e1kg<br>
 The Witcher 3 Wild Hunt Main Theme
 https://youtu.be/LXDZxvLf0Ds
 
