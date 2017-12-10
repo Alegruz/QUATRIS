@@ -10,19 +10,30 @@ You can use both keyboard and console. The program will automatically set your c
 1. KEYBOARD
 
 ARROW KEYS to move the blocks
+
 R to rotate the blocks
+
 SPACE to drop the blocks
+
 P to pause the game
+
 ESC to end the game
+
 
 2. CONSOLE (FAMICOM)
 
 AXIS to move the blocks
+
 B to rotate the blocks
+
 A to drop the blocks
+
 START to pause the game
+
 SELECT to continue the game
+
 X to end the game
+
 
 # ABOUT THE RESOURCES
 The resources are mostly from YouTube.
@@ -81,6 +92,7 @@ https://youtu.be/LXDZxvLf0Ds
 
 # USED MODULES
 PYGAME https://www.pygame.org/
+
 CX_FREEZE https://github.com/anthony-tuininga/cx_Freeze
 
 # COMMENTS
