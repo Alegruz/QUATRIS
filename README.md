@@ -3,6 +3,8 @@
 
 Base Code from Al Sweigart's Tetromino https://inventwithpython.com/pygame/chapter7.html
 
+# DOWNLOADS
+https://www.dropbox.com/s/1fyqpfa5u058kn2/QUATRIS.zip?dl=0
 
 # CONTROLS
 You can use both keyboard and console. The program will automatically set your controls according to your initial input.
