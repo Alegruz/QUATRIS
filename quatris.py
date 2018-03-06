@@ -1,4 +1,4 @@
-#Quatris (a Tetris clone)
+# Quatris (a Tetris clone)
 # Originally By Al Sweigart al@inventwithpython.com
 # Rearrange By Alegruz
 # http://inventwithpython.com/pygame
